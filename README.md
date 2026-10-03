@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Soad Saeed 👋</h1>
 
-<h3 align="center">CS Graduate · AI / Machine Learning · Full Stack Developer</h3>
+<h3 align="center">CS Graduate · AI / ML Engineer · Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/soad-saeed-6939a824a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,10 +35,6 @@ Computer Science graduate (Ain Shams University, 2026) focused on **AI / Machine
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+ 
 
----
-
-
-##  Contact
-
-[LinkedIn](https://linkedin.com/in/soad-saeed-6939a824a) · soadsaeed2005@gmail.com
+ 
